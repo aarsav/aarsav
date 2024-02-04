@@ -6,7 +6,7 @@
 <h2 align="center">Data Analyst & Devloper From India</h2>
 <p align="center">As a 'Data Whisperer' 📊, I decipher cryptic numbers to unveil their secrets—because who needs straightforward data? Meanwhile, as a 'Code Sorcerer' 💻, I work my magic on complexities, turning them into elegantly tangled code. It's a sarcastic symphony of analysis and development, ready to bewilder your tech world. </p>
 
-- 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/aarsav/powerbiproject)
+- 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/aarsav/power-bi-Dashboard)
 
 - 👨‍💻 My **Tableau** Projects are at: [Abhijeet Raj - Tableau Public](https://public.tableau.com/app/profile/abhijeetraj)
 
@@ -25,4 +25,6 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 </div>
+
+
 
