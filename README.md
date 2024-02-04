@@ -12,7 +12,6 @@
 
 - 📫 Email me at: **Abhijeetraj2389@gmail.com**
 
-
 <div style="display: flex; align-items: flex-start;" align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -25,6 +24,27 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 </div>
+<br>
+<br>
+   <!-- <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=aarsav&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" /> -->
 
+<br>
+<br>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+  
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aarsav?cardType=github&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)          [![GitHub Streak](https://streak-stats.demolab.com?user=aarsav&theme=merko&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats)
 
+</div>
 
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+<h3 align="left">Activity:</h3>
+<!--[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aarsav&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Abhijeet'graph](https://github-readme-activity-graph.vercel.app/graph?username=aarsav&custom_title=Abhijeet's%20GitHub%20Activity%20Graph&bg_color=0a0f0b&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)-->
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=aarsav&bg_color=0a0f0b&color=64b082&line=abd200&point=64b082&area=true&hide_border=false&hide_title=false">
+</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
