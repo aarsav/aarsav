@@ -11,5 +11,3 @@
 - 👨‍💻 My **Tableau** Projects are at: [Abhijeet Raj - Tableau Public](https://public.tableau.com/app/profile/abhijeetraj)
 
 - 📫 Email me at: **Abhijeetraj2389@gmail.com**
-
-- ⚡ Fun Fact: **The most life-changing book for me is Bhagwad Gita.**
